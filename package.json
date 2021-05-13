@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-notion",
+  "version": "0.0.1",
+  "description": "Nuxt Module for Notion API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/64robots/nuxt-notion.git"
+  },
+  "keywords": [
+    "nuxt",
+    "notion"
+  ],
+  "author": "64 Robots",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/64robots/nuxt-notion/issues"
+  },
+  "homepage": "https://github.com/64robots/nuxt-notion#readme"
+}
